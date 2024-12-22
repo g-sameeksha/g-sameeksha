@@ -28,7 +28,7 @@ When I'm not debugging, you'll find me creating digital art, exploring new tech,
 ---
 
 ### 📫 Let's Connect!  
-- **Portfolio**: [My Personal Website](https://g-sameeksha.github.io/Portfolio/)  
+- **Portfolio**: [My Personal Website](https://g-sameeksha.github.io/PortFolio/)  
 - **LinkedIn**: [linkedin.com/in/sameeksha-g-a164122a9](https://www.linkedin.com/in/sameeksha-g-a164122a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **Email**: sameekshag2005@gmail.com  
 
